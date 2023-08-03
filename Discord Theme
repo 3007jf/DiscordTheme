@@ -144,19 +144,19 @@
 
 :root {
   --app-background: url("https://i.imgur.com/cEWCbSU.png");
-  --main-color: #992727;
-  --main-color-selected: #aa2f2f;
-  --main-color-semitransparent: #d4393926;
-  --main-color-semitransparent-selected: #d336364d;
-  --accent-color: #fd9fa0;
+  --main-color: #275c99;
+  --main-color-selected: #2f5aaa;
+  --main-color-semitransparent: #3989d426;
+  --main-color-semitransparent-selected: #3675d34d;
+  --accent-color: #9fc8fd;
   --accent-color-semitransparent: #fca7a918;
-  --accent-saturated: #fd7a7c;
-  --accent-desaturated: #b47a7a;
+  --accent-saturated: #7ab3fd;
+  --accent-desaturated: #7a88b4;
   --button-text: #dddddd;
   --button-text-selected: #ffffff;
   --profile-background: url("https://i.imgur.com/sPo0lG8.png");
-  --profile-activity: #6d1515;
-  --scroll-thumb-color: #a54b4b;
+  --profile-activity: #15346d;
+  --scroll-thumb-color: #4b63a5;
   --reaction-size: 30;
 }
 
