@@ -2452,7 +2452,7 @@ div[class^=notice] button:hover {
   line-height: 14px;
 }
 [class*=wordmark]::before {
-  content: "Novum";
+  content: "ALDUI";
   margin-left: 2px;
   color: rgba(255, 255, 255, 0.5);
   font-size: 15px;
@@ -2460,7 +2460,7 @@ div[class^=notice] button:hover {
   font-weight: bold;
 }
 [class*=wordmark]::after {
-  content: "v5.7.0";
+  content: "Blue Space Theme";
   margin-left: 8px;
   color: rgba(255, 255, 255, 0.3);
   font-size: 14px;
