@@ -143,7 +143,7 @@
 }
 
 :root {
-  --app-background: url("https://i.imgur.com/ja8gbcD.png");
+  --app-background: url("https://i.imgur.com/TW0Vsx1.png");
   --main-color: #275c99;
   --main-color-selected: #2f5aaa;
   --main-color-semitransparent: #3989d426;
@@ -154,7 +154,7 @@
   --accent-desaturated: #7a88b4;
   --button-text: #dddddd;
   --button-text-selected: #ffffff;
-  --profile-background: url("https://i.imgur.com/ja8gbcD.png");
+  --profile-background: url("https://i.imgur.com/N2Y3ilV.png");
   --profile-activity: #15346d;
   --scroll-thumb-color: #4b63a5;
   --reaction-size: 30;
